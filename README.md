@@ -1,0 +1,2 @@
+# DiceGame
+Js/DOM practice
